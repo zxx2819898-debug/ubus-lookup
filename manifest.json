@@ -1,0 +1,22 @@
+{
+  "name": "統聯與中台灣客運車輛配站查詢",
+  "short_name": "統聯中台配車",
+  "description": "統聯客運與中台灣客運車輛配站即時離線查詢 App",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1b5e20",
+  "theme_color": "#1b5e20",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
